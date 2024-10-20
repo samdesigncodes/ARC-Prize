@@ -23,4 +23,6 @@ In this project, several powerful tools and frameworks were utilized to create a
 7.	Google Colab with GPU Support: Google Colab provided an interactive environment for testing and scaling the model, offering GPU and TPU support to accelerate the training and inference processes. This enabled faster experimentation on large datasets and deep neural networks.
 8.	Jupyter Notebooks: These are highly interactive notebooks that simplify the coding, testing, and visualization process, often integrated into both VS Code and Google Colab for an interactive, real-time coding experience.
 
-![image](https://github.com/user-attachments/assets/fcadb6e5-64de-4347-bfb4-1a0c3539dd32)
+![2_00d62c1b](https://github.com/user-attachments/assets/59bcb3a8-48c0-4b78-b19f-551ea208c43f)
+
+
